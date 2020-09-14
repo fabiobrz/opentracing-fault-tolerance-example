@@ -1,4 +1,4 @@
-package org.example.client.app;
+package org.example.opentracing.fault.tolerance.example;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;

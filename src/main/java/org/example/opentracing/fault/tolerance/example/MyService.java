@@ -1,4 +1,4 @@
-package org.example.client.app;
+package org.example.opentracing.fault.tolerance.example;
 
 import io.opentracing.Scope;
 import io.opentracing.Tracer;
